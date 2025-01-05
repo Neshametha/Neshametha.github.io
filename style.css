@@ -1,8 +1,8 @@
 body {
     background: #1c0142;
 
-    color: #fff;
     text-align: center;
+    color: #fff;
 }
 
 a {
@@ -49,11 +49,23 @@ img a {
     text-align: right;
 }
 
-footer {
+#footer {
     text-align: center;
+    color: #fff;
+}
+
+.garnish a {
     color: #00ebbe;
 }
 
-footer b {
+.update {
+    color: #00ebbe;
+}
+
+.garnish a:hover, a:visited {
+    color: #68b8d2;
+}
+
+.update b {
     color: #68b8d2;
 }
