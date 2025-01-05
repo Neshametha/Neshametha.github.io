@@ -5,7 +5,7 @@ body {
 
     text-align: center;
     color: #fff;
-    font: 14px "Arial Narrow", sans-serif;
+    font: 14vw "Arial Narrow", sans-serif;
 }
 
 a {
@@ -43,12 +43,17 @@ table {
     padding: 0px;
 }
 
-.salt {
+td .salt {
+    width: 50%;
+
     text-align: left;
 }
 
-.pepper {
+td .pepper {
+    width: 50%;
     vertical-align: bottom;
+
+    text-align: right;
 }
 
 .garnish {
