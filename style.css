@@ -12,3 +12,48 @@ a {
 a:hover, a:visited {
     color: #68b8d2;
 }
+
+img a {
+    border: 0px;
+}
+
+#meat {
+    width: 70%;
+
+    margin: 15px 0px;
+    border: 0px;
+    padding: 0px;
+
+    text-align: left;
+}
+
+.potatoes {
+    border: 7px solid #00ebbe;
+    border-radius: 25px;
+    padding: 2px 3px;
+}
+
+#header {
+    display: inline;
+
+    margin: 5px 3px;
+    border: 0px;
+    padding: 0px;
+}
+
+.logo {
+    text-align: left;
+}
+
+.social {
+    text-align: right;
+}
+
+footer {
+    text-align: center;
+    color: #00ebbe;
+}
+
+footer b {
+    color: #68b8d2;
+}
