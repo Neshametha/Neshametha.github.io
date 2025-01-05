@@ -43,30 +43,34 @@ table {
     padding: 0px;
 }
 
-td .salt {
+.salt {
+    display: block;
     width: 50%;
 
     text-align: left;
 }
 
-td .pepper {
-    width: 50%;
+.pepper {
     vertical-align: bottom;
+    width: 50%;
 
     text-align: right;
 }
 
-.garnish {
+map {
+    display: inline-block;
+
+    margin: 0px 0px 3px;
     border-top: 3px solid #00ebbe;
 }
 
 .potatoes {
-    display: block;
+    display: inline-block;
 
     margin: 2px 0px 0px 0px;
     border: 7px solid #00ebbe;
     border-radius: 25px;
-    padding: 5px 3px;
+    padding: 0px 3px 5px;
 
     text-align: center;
 }
