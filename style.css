@@ -20,7 +20,8 @@ img a {
 #meat {
     width: 70%;
 
-    margin: 15px 0px;
+    margin: auto;
+    margin-top: 15px;
     border: 0px;
     padding: 0px;
 
@@ -28,6 +29,7 @@ img a {
 }
 
 .potatoes {
+    margin: 2px 0px;
     border: 7px solid #00ebbe;
     border-radius: 25px;
     padding: 2px 3px;
