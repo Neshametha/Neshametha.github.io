@@ -1,8 +1,11 @@
 body {
     background: #1c0142;
 
+    margin: auto;
+
     text-align: center;
     color: #fff;
+    font: 10px "Arial Narrow", sans-serif;
 }
 
 a {
@@ -20,8 +23,7 @@ img a {
 #meat {
     width: 70%;
 
-    margin: auto;
-    margin-top: 15px;
+    margin-top: 10px;
     border: 0px;
     padding: 0px;
 
@@ -37,6 +39,7 @@ img a {
 
 #header {
     display: inline;
+    width: 70%;
 
     margin: 5px 3px;
     border: 0px;
@@ -54,6 +57,7 @@ img a {
 #footer {
     text-align: center;
     color: #fff;
+    font-size: 9px;
 }
 
 .garnish a {
