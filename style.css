@@ -34,7 +34,7 @@ img a {
     text-align: left;
 }
 
-#seasoning {
+table {
     display: block;
     width: 100%;
 
@@ -44,15 +44,11 @@ img a {
 }
 
 .salt {
-    margin-right: auto;
-
     text-align: left;
 }
 
 .pepper {
-    margin: auto 0px auto 0px;
-
-    text-align: right;
+    vertical-align: bottom;
 }
 
 .garnish {
