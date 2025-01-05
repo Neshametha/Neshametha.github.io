@@ -1,11 +1,11 @@
 body {
     background: #1c0142;
 
-    margin: auto;
+    margin: 0px auto auto 0px;
 
     text-align: center;
     color: #fff;
-    font: 10px "Arial Narrow", sans-serif;
+    font: 14px "Arial Narrow", sans-serif;
 }
 
 a {
@@ -18,9 +18,11 @@ a:hover, a:visited {
 
 img a {
     border: 0px;
+    text-decoration: none;
 }
 
 #meat {
+    display: block;
     width: 70%;
 
     margin-top: 10px;
@@ -35,10 +37,12 @@ img a {
     border: 7px solid #00ebbe;
     border-radius: 25px;
     padding: 2px 3px;
+
+    text-align: center;
 }
 
 #header {
-    display: inline;
+    display: inline-block;
     width: 70%;
 
     margin: 5px 3px;
@@ -47,17 +51,21 @@ img a {
 }
 
 .logo {
+    margin-right: auto;
+
     text-align: left;
 }
 
 .social {
+    margin-left: auto;
+
     text-align: right;
 }
 
 #footer {
     text-align: center;
     color: #fff;
-    font-size: 9px;
+    font-size: 12px;
 }
 
 .garnish a {
