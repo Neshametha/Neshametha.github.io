@@ -9,6 +9,6 @@ a {
     color: #00ebbe;
 }
 
-a:visited {
+a:hover, a:visited {
     color: #68b8d2;
 }
