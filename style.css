@@ -1,6 +1,8 @@
 body {
     background: #1c0142;
 
+    margin: 0px auto;
+
     text-align: center;
     color: #fff;
     font: 14px "Arial Narrow", sans-serif;
@@ -33,7 +35,7 @@ img a {
 }
 
 #seasoning {
-    display: inline-block;
+    display: block;
     width: 100%;
 
     margin: 5px 3px;
@@ -41,19 +43,19 @@ img a {
     padding: 0px;
 }
 
-.logo {
+.salt {
     margin-right: auto;
 
     text-align: left;
 }
 
-.social {
+.pepper {
     margin: auto 0px auto 0px;
 
     text-align: right;
 }
 
-.gravy {
+.garnish {
     border-top: 3px solid #00ebbe;
 }
 
@@ -68,24 +70,20 @@ img a {
     text-align: center;
 }
 
-#footer {
+#dessert {
     text-align: center;
     color: #fff;
     font-size: 12px;
 }
 
-.garnish a {
-    color: #00ebbe;
-}
-
-.update {
-    color: #00ebbe;
-}
-
-.garnish a:hover, a:visited {
+.alamode b {
     color: #68b8d2;
 }
 
-.update b {
+.sprinkles a {
+    color: #00ebbe;
+}
+
+.sprinkles a:hover, a:visited {
     color: #68b8d2;
 }
