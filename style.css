@@ -7,7 +7,7 @@
     clear: both;
     display: table;
 
-    margin: 2px 0px 0px 0px;
+    margin: 0px;
     border: 7px solid #00ebbe;
     border-radius: 25px;
     padding: 0px 3px 5px;
@@ -135,7 +135,7 @@ map {
     .col-9 {width: 75%;}
     .col-10 {width: 83.33%;}
     .col-11 {width: 91.66%;}
-    .col-12 {width: 100%;}
+    .col-12 {width: 70%;}
 }
 
 .statcounter {
