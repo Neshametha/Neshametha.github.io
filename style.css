@@ -55,14 +55,11 @@ tbody {
 }
 
 .salt {
-    width: 50%;
-
     text-align: left;
 }
 
 .pepper {
     vertical-align: bottom;
-    width: 50%;
 
     text-align: right;
 }
