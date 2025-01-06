@@ -3,14 +3,12 @@
   }
   
 [class*="col-"] {
-    float: center;
+    float: left;
 
     margin: 0px;
     border: 7px solid #00ebbe;
     border-radius: 25px;
     padding: 0px 3px 5px;
-
-    text-align: center;
 }
 
 html {
@@ -44,7 +42,7 @@ img, img a {
 }
 
 table {
-    margin: 5px 0px;
+    margin: 5px 0px 2px;
     border: 0px;
     padding: 0px;
 }
@@ -68,7 +66,7 @@ map {
 
 .potatoes::after {
     clear: both;
-    display: table;
+    display: block;
 }
 
 #potatoes, .garnish {
