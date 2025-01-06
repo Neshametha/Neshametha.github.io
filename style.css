@@ -3,7 +3,14 @@
   }
   
 [class*="col-"] {
-    float: left;
+    float: center;
+
+    margin: 0px;
+    border: 7px solid #00ebbe;
+    border-radius: 25px;
+    padding: 0px 3px 5px;
+
+    text-align: center;
 }
 
 html {
@@ -59,6 +66,11 @@ map {
     border-top: 3px solid #00ebbe;
 }
 
+.potatoes::after {
+    clear: both;
+    display: table;
+}
+
 #potatoes, .garnish {
     text-align: center;
     color: #fff;
@@ -80,13 +92,6 @@ map {
 [class*="col-"] {
     /* mobile */
     width: 100%;
-
-    margin: 0px;
-    border: 7px solid #00ebbe;
-    border-radius: 25px;
-    padding: 0px 3px 5px;
-
-    text-align: center;
 }
   
 @media only screen and (min-width: 600px) {
