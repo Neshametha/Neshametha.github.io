@@ -2,29 +2,12 @@
     box-sizing: border-box;
   }
   
-.potatoes::after {
-    content: "";
-    clear: both;
-    display: table;
-
-    margin: 0px;
-    border: 7px solid #00ebbe;
-    border-radius: 25px;
-    padding: 0px 3px 5px;
-
-    text-align: center;
-}
-  
 [class*="col-"] {
     float: left;
-    padding: 15px;
 }
 
-body {
-    width: 100%;
-
+html {
     background: #1c0142;
-    overflow: hidden;
 
     text-align: center;
     color: #fff;
@@ -39,17 +22,21 @@ a:hover, a:visited {
     color: #68b8d2;
 }
 
-img a {
+img, img a {
+    max-width: 100%;
+    height: auto;
+
     border: 0px;
-    text-decoration: none;
 }
 
-#meat {
-    width: 70%;
+.potatoes::after {
+    clear: both;
+    display: table;
 
-    margin: 10px auto;
-    border: 0px;
-    padding: 0px;
+    margin: 0px;
+    border: 7px solid #00ebbe;
+    border-radius: 25px;
+    padding: 0px 3px 5px;
 
     text-align: center;
 }
