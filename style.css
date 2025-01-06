@@ -5,7 +5,8 @@
 body {
     background: #1c0142;
 
-    margin: 0px auto;
+    margin-right: auto;
+    margin-left: auto;
 
     text-align: center;
     color: #fff;
@@ -45,6 +46,12 @@ table {
     width: 50%;
 }
 
+.meat::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
 .potatoes {
     max-width: 70%;
 
@@ -63,10 +70,8 @@ map {
 }
 
 #garnish, .parsley {
-    margin: 5px 0px 0px;
+    margin: 15px 0px 0px;
     border: 0px;
-    border-radius: 0px;
-    padding: 0px;
 
     text-align: center;
     color: #fff;
