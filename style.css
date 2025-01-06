@@ -55,14 +55,16 @@ tbody {
 }
 
 .salt {
-    justify-content: left;
-    width: 50%;
+    width: 100%;
+
+    text-align: left;
 }
 
 .pepper {
-    justify-content: right;
     vertical-align: bottom;
-    width: 50%;
+    width: 100%;
+
+    text-align: right;
 }
 
 .potatoes {
