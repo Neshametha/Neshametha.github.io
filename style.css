@@ -43,18 +43,23 @@ img, img a {
 
 table {
     justify-content: center;
-    width: 100%;
 
     margin: 5px auto 2px;
     border: 0px;
     padding: 0px;
 }
 
+tr {
+    width: 100%;
+}
+
 .salt {
+    justify-content: left;
     width: 50%;
 }
 
 .pepper {
+    justify-content: right;
     vertical-align: bottom;
     width: 50%;
 }
