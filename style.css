@@ -5,7 +5,7 @@ body {
 
     text-align: center;
     color: #fff;
-    font: 14vw "Arial Narrow", sans-serif;
+    font: 14px "Arial Narrow", sans-serif;
 }
 
 a {
@@ -59,6 +59,7 @@ table {
 
 map {
     display: inline-block;
+    height: 35px;
 
     margin: 0px 0px 3px;
     border-top: 3px solid #00ebbe;
@@ -66,6 +67,7 @@ map {
 
 .potatoes {
     display: inline-block;
+    width: 100px;
 
     margin: 2px 0px 0px 0px;
     border: 7px solid #00ebbe;
@@ -75,7 +77,7 @@ map {
     text-align: center;
 }
 
-#dessert {
+#dessert, .alamode {
     text-align: center;
     color: #fff;
     font-size: 12px;
