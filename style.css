@@ -1,3 +1,7 @@
+html {
+    width: 100%;
+}
+
 body {
     background: #1c0142;
 
@@ -27,13 +31,11 @@ img a {
     display: block;
     width: 70%;
 
-    margin-top: 10px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 10px auto;
     border: 0px;
     padding: 0px;
 
-    text-align: left;
+    text-align: center;
 }
 
 table {
@@ -41,7 +43,7 @@ table {
     width: 100%;
 
     margin: 5px 3px;
-    border: 1px;
+    border: 0px;
     padding: 0px;
 }
 
@@ -59,17 +61,8 @@ table {
     text-align: right;
 }
 
-map {
-    display: inline;
-    width: 100%;
-    height: 35px;
-
-    margin: 0px 0px 3px;
-    border-top: 3px solid #00ebbe;
-}
-
 .potatoes {
-    display: inline-block;
+    display: block;
     width: 100px;
 
     margin: 2px 0px 0px 0px;
@@ -78,6 +71,15 @@ map {
     padding: 0px 3px 5px;
 
     text-align: center;
+}
+
+map {
+    display: inline;
+    width: 100%;
+    height: 35px;
+
+    margin: 0px 0px 3px;
+    border-top: 3px solid #00ebbe;
 }
 
 #dessert, .alamode {
