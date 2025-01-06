@@ -9,6 +9,8 @@
 html {
     background: #1c0142;
 
+    margin: 0px auto;
+
     text-align: center;
     color: #fff;
     font: 14px "Arial Narrow", sans-serif;
@@ -29,7 +31,7 @@ img, img a {
     border: 0px;
 }
 
-.potatoes::after {
+.meat::after {
     clear: both;
     display: table;
 }
@@ -42,15 +44,11 @@ table {
 
 .salt {
     width: 50%;
-
-    text-align: left;
 }
 
 .pepper {
     vertical-align: bottom;
     width: 50%;
-
-    text-align: right;
 }
 
 map {
@@ -61,21 +59,21 @@ map {
     border-top: 3px solid #00ebbe;
 }
 
-#dessert, .alamode {
+#potatoes, .garnish {
     text-align: center;
     color: #fff;
     font-size: 12px;
 }
 
-.alamode b {
+.garnish b {
     color: #68b8d2;
 }
 
-.sprinkles a {
+.dessert a {
     color: #00ebbe;
 }
 
-.sprinkles a:hover, a:visited {
+.dessert a:hover, a:visited {
     color: #68b8d2;
 }
 
