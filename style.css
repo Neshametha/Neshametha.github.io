@@ -38,7 +38,7 @@ img, img a {
 
 table {
     display: block;
-    
+
     margin: 5px 0px 2px;
     border: 0px;
     padding: 0px;
@@ -68,12 +68,7 @@ map {
     border-top: 3px solid #00ebbe;
 }
 
-.seasoning::after {
-    clear: both;
-    display: block;
-}
-
-#seasoning, .garnish {
+#garnish, .parsley {
     margin: 0px;
     border: 0px;
     border-radius: 0px;
@@ -84,15 +79,15 @@ map {
     font-size: 12px;
 }
 
-.garnish b {
+.parsley b {
     color: #68b8d2;
 }
 
-.dessert a {
+.chives a {
     color: #00ebbe;
 }
 
-.dessert a:hover, a:visited {
+.chives a:hover, a:visited {
     color: #68b8d2;
 }
 
