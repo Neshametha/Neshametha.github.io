@@ -36,7 +36,7 @@ table {
     width: 100%;
 
     margin: 5px 3px;
-    border: 0px;
+    border: 3px solid #fff;
     padding: 0px;
 }
 
@@ -88,4 +88,8 @@ map {
 
 .sprinkles a:hover, a:visited {
     color: #68b8d2;
+}
+
+.statcounter {
+    overflow: hidden;
 }
