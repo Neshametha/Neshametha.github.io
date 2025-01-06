@@ -42,6 +42,7 @@ img, img a {
 }
 
 table {
+    display: block;
     justify-content: center;
 
     margin: 5px auto 2px;
@@ -49,7 +50,7 @@ table {
     padding: 0px;
 }
 
-tr {
+tbody {
     width: 100%;
 }
 
