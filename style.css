@@ -34,7 +34,7 @@ img, img a {
 }
 
 .seasoning {
-    display: table;
+    display: inline;
     justify-content: center;
 
     margin: 0 auto;
