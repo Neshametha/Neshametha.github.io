@@ -5,9 +5,6 @@
 body {
     background: #1c0142;
 
-    margin-right: auto;
-    margin-left: auto;
-
     text-align: center;
     color: #fff;
     font: 14px "Arial Narrow", sans-serif;
@@ -28,6 +25,13 @@ img, img a {
     border: 0px;
 }
 
+.meat::after {
+    clear: both;
+    display: block;
+
+    text-align: center;
+  }
+
 table {
     display: block;
     width: 100%;
@@ -45,12 +49,6 @@ table {
     vertical-align: bottom;
     width: 50%;
 }
-
-.meat::after {
-    content: "";
-    clear: both;
-    display: block;
-  }
 
 .potatoes {
     display: block;
