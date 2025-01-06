@@ -34,7 +34,8 @@ img, img a {
 }
 
 .seasoning {
-    display: inline;
+    display: table;
+    justify-content: center;
 
     margin: 0 auto;
     border: 0px;
@@ -55,10 +56,13 @@ tbody {
 }
 
 .salt {
+    display: inline;
+
     text-align: left;
 }
 
 .pepper {
+    display: inline;
     vertical-align: bottom;
 
     text-align: right;
