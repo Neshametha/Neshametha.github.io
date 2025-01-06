@@ -1,10 +1,6 @@
 * {
     box-sizing: border-box;
   }
-  
-[class*="col-"] {
-    float: left;
-}
 
 html {
     background: #1c0142;
@@ -54,6 +50,8 @@ table {
 }
 
 .potatoes {
+    max-width: 70%;
+
     margin: 0px;
     border: 7px solid #00ebbe;
     border-radius: 25px;
