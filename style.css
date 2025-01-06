@@ -37,6 +37,8 @@ img, img a {
 }
 
 table {
+    display: block;
+    
     margin: 5px 0px 2px;
     border: 0px;
     padding: 0px;
@@ -66,12 +68,17 @@ map {
     border-top: 3px solid #00ebbe;
 }
 
-.potatoes::after {
+.seasoning::after {
     clear: both;
     display: block;
 }
 
-#potatoes, .garnish {
+#seasoning, .garnish {
+    margin: 0px;
+    border: 0px;
+    border-radius: 0px;
+    padding: 0px;
+
     text-align: center;
     color: #fff;
     font-size: 12px;
