@@ -2,6 +2,7 @@ body {
     width: 100%;
 
     background: #1c0142;
+    overflow: hidden;
 
     text-align: center;
     color: #fff;
@@ -32,7 +33,6 @@ img a {
 }
 
 table {
-    display: block;
     width: 100%;
 
     margin: 5px 3px;
