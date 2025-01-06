@@ -42,8 +42,8 @@ img, img a {
 }
 
 table {
-    display: table;
     justify-content: center;
+    width: 100%;
 
     margin: 5px auto 2px;
     border: 0px;
@@ -51,7 +51,12 @@ table {
 }
 
 .salt {
+    width: 50%;
+}
+
+.pepper {
     vertical-align: bottom;
+    width: 50%;
 }
 
 .potatoes {
