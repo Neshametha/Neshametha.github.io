@@ -20,7 +20,7 @@ a:hover, a:visited {
 }
 
 img, img a {
-    max-width: 300px;
+    max-width: 100%;
     height: auto;
 
     border: 0px;
@@ -31,11 +31,19 @@ img, img a {
     display: block;
 
     text-align: center;
-  }
+}
+
+.seasoning {
+    display: block;
+
+    margin: 0 auto;
+    border: 0px;
+    padding: 0px;
+}
 
 table {
-    display: block;
-    width: 100%;
+    display: table;
+    justify-content: center;
 
     margin: 5px auto 2px;
     border: 0px;
@@ -53,7 +61,6 @@ table {
 
 .potatoes {
     display: block;
-    max-width: 70%;
 
     margin: 0 auto;
     border: 7px solid #00ebbe;
@@ -111,6 +118,8 @@ map {
     .col-s-10 {width: 83.33%;}
     .col-s-11 {width: 91.66%;}
     .col-s-12 {width: 100%;}
+
+    .potatoes {max-width: 100%;}
 }
 
 @media only screen and (min-width: 768px) {
@@ -127,6 +136,8 @@ map {
     .col-10 {width: 83.33%;}
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
+
+    .potatoes {max-width: 70%;}
 }
 
 .statcounter {
