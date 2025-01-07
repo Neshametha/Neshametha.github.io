@@ -43,6 +43,25 @@ img, img a {
     padding: 0px;
 }
 
+table {
+   margin: 5px 0px;
+   border: 0px;
+   padding: 0px;
+}
+
+.salt {
+   width: 50%;
+
+   text-align: left;
+}
+
+.pepper {
+   vertical-align: bottom;
+   width: 50%;
+
+   text-align: right;
+}
+
 .potatoes {
     display: block;
 
@@ -103,8 +122,7 @@ map {
     .col-s-11 {width: 91.66%;}
     .col-s-12 {width: 100%;}
 
-    .potatoes {max-width: 100%;}
-    .seasoning {max-width: 50%;}
+    .potatoes, table {max-width: 100%;}
 }
 
 @media only screen and (min-width: 768px) {
@@ -122,8 +140,7 @@ map {
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
 
-    .potatoes {max-width: 70%;}
-    .seasoning {max-width: 50%;}
+    .potatoes, table {max-width: 70%;}
 }
 
 .statcounter {
