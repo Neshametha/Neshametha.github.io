@@ -28,7 +28,7 @@ img, img a {
 
 .meat::after {
     clear: both;
-    display: block;
+    display: table;
 
     text-align: center;
 }
