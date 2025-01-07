@@ -29,43 +29,18 @@ img, img a {
 .meat::after {
     clear: both;
     display: table;
+    justify-content: center;
 
     text-align: center;
 }
 
 .seasoning {
-    display: inline;
+    display: table;
     justify-content: center;
 
     margin: 0 auto;
     border: 0px;
     padding: 0px;
-}
-
-table {
-    display: block;
-    justify-content: center;
-
-    margin: 5px auto 2px;
-    border: 0px;
-    padding: 0px;
-}
-
-tbody {
-    width: 100%;
-}
-
-.salt {
-    display: inline;
-
-    text-align: left;
-}
-
-.pepper {
-    display: inline;
-    vertical-align: bottom;
-
-    text-align: right;
 }
 
 .potatoes {
@@ -128,7 +103,8 @@ map {
     .col-s-11 {width: 91.66%;}
     .col-s-12 {width: 100%;}
 
-    .potatoes, .seasoning {max-width: 100%;}
+    .potatoes {max-width: 100%;}
+    .seasoning {max-width: 50%;}
 }
 
 @media only screen and (min-width: 768px) {
@@ -146,7 +122,8 @@ map {
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
 
-    .potatoes, .seasoning {max-width: 70%;}
+    .potatoes {max-width: 70%;}
+    .seasoning {max-width: 35%;}
 }
 
 .statcounter {
