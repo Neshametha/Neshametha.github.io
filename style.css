@@ -65,11 +65,11 @@ tr {
     padding: 0px 3px 5px;
 }
 
-map {
+.gravy {
     width: 100%;
     height: 35px;
 
-    margin: 0 0 3px;
+    margin: 0 0 15px;
     border-top: 3px solid #00ebbe;
 }
 
