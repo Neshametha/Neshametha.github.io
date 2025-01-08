@@ -34,15 +34,6 @@ img, img a {
     text-align: center;
 }
 
-.seasoning {
-    display: table;
-    justify-content: center;
-
-    margin: 0 auto;
-    border: 0px;
-    padding: 0px;
-}
-
 table {
     justify-content: center;
 
@@ -85,7 +76,7 @@ map {
 #garnish, .parsley {
     display: block;
 
-    margin: 15px auto 0;
+    margin: 25px auto 0;
     border: 0px;
 
     text-align: center;
@@ -126,7 +117,7 @@ map {
     .col-s-12 {width: 100%;}
 
     .potatoes {max-width: 100%;}
-    table {min-width: 100%;}
+    table, tr {min-width: 100%;}
 }
 
 @media only screen and (min-width: 768px) {
@@ -145,7 +136,7 @@ map {
     .col-12 {width: 100%;}
 
     .potatoes {max-width: 70%;}
-    table {min-width: 70%;}
+    table, tr {min-width: 70%;}
 }
 
 .statcounter {
