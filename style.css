@@ -8,7 +8,7 @@ body {
 
     text-align: center;
     color: #fff;
-    font: 10pt "Zen Kaku Gothic Antique", "Arial Narrow", sans-serif;
+    font: 12pt "Zen Kaku Gothic Antique", "Arial Narrow", sans-serif;
 }
 
 a {
@@ -59,10 +59,14 @@ tr {
 .potatoes {
     display: block;
 
-    margin: 0 auto;
+    margin: 0px auto;
     border: 7px solid #00ebbe;
     border-radius: 25px;
     padding: 0px 3px 5px;
+}
+
+.skins {
+    padding: 0px 15px 10px;
 
     text-align: left !important;
 }
@@ -85,7 +89,7 @@ tr {
 
     text-align: center;
     color: #fff;
-    font-size: 12px;
+    font-size: 9pt;
 }
 
 .parsley b {
@@ -140,6 +144,7 @@ tr {
     .col-12 {width: 100%;}
 
     .potatoes {max-width: 70%;}
+    .skins {padding: 0px 10% 15px;}
     table, tr {min-width: 70%;}
 }
 
