@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-  }
+}
 
 body {
     background: #1c0142;
@@ -8,7 +8,7 @@ body {
 
     text-align: center;
     color: #fff;
-    font: 10pt "Hiragino Kaku Gothic Pro", "Arial Narrow", sans-serif;
+    font: 10pt "Zen Kaku Gothic Antique", "Arial Narrow", sans-serif;
 }
 
 a {
@@ -64,7 +64,7 @@ tr {
     border-radius: 25px;
     padding: 0px 3px 5px;
 
-    text-align: left;
+    text-align: left !important;
 }
 
 .gravy {
