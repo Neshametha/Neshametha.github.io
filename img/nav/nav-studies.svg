@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="106.46733mm"
-   height="6.7418594mm"
-   viewBox="0 0 106.46733 6.7418587"
+   width="159.70097mm"
+   height="10.112822mm"
+   viewBox="0 0 159.70097 10.11282"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -28,7 +28,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.99999781,0,0,1.0000002,9.4179444e-4,-4.4493155e-6)" /></defs><g
      id="g7-1"
-     transform="matrix(0.51805354,0,0,0.51805354,-57.194095,-10.986183)"
+     transform="matrix(0.77711972,0,0,0.77711972,-85.795494,-16.48011)"
      style="display:inline"><path
        id="path31"
        style="fill:#00ebbe;stroke-width:1.07187;stroke-linecap:square;stroke-miterlimit:7.6;paint-order:fill markers stroke"
@@ -44,7 +44,7 @@
          y="28.466057">about</tspan></text></g><g
      id="g30"
      style="display:inline"
-     transform="matrix(0.51807981,0,0,0.51807981,-30.580177,-10.98674)"><path
+     transform="matrix(0.77712115,0,0,0.77712986,-45.870292,-16.480326)"><path
        id="path32"
        style="display:inline;fill:#00ebbe;stroke-width:1.07187;stroke-linecap:square;stroke-miterlimit:7.6;paint-order:fill markers stroke"
        d="m 110.4019,21.206656 3.0272,1.35208 c 0,0 4.92441,2.203454 7.82304,3.831415 1.45158,0.815238 2.71496,2.018211 4.06556,3.06699 1.35058,1.048779 2.84113,1.963514 4.70437,1.963514 h 26.77957 c 2.53647,0 4.97645,-2.216 4.97624,-4.90491 v -5.309089 z m 12.72643,4.703857 c 0.37602,0.265041 0.73516,0.541112 1.08227,0.819207 -0.34711,-0.278095 -0.70625,-0.554166 -1.08227,-0.819207 z" /><text
@@ -59,7 +59,7 @@
          x="140.09872"
          y="27.980211">résumé</tspan></text></g><g
      id="g9"
-     transform="matrix(0.5180794,0,0,0.51807816,-3.9636754,-10.986705)"
+     transform="matrix(0.77712281,0,0,0.77712739,-5.9456585,-16.480273)"
      style="display:inline"><path
        id="path30"
        style="display:inline;fill:url(#linearGradient30);stroke:none;stroke-width:1.07187;stroke-linecap:square;stroke-miterlimit:7.6;paint-order:fill markers stroke"
@@ -74,7 +74,7 @@
          x="143.77182"
          y="31.265049">studies</tspan></text></g><g
      id="g11"
-     transform="matrix(0.51808088,0,0,0.51807966,22.653161,-10.987004)"
+     transform="matrix(0.77712251,0,0,0.77712964,33.980007,-16.480722)"
      style="display:inline"><path
        id="path29"
        style="fill:#00ebbe;stroke-width:1.00015;stroke-linecap:square;stroke-miterlimit:7.6;paint-order:fill markers stroke"

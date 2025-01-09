@@ -2,17 +2,32 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="106.46733mm"
-   height="6.7418594mm"
-   viewBox="0 0 106.46733 6.7418587"
+   width="159.70097mm"
+   height="10.112822mm"
+   viewBox="0 0 159.70097 10.11282"
    version="1.1"
    id="svg1"
    xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs1" /><g
+     id="defs1"><linearGradient
+       xlink:href="#linearGradient29"
+       id="linearGradient30"
+       x1="136.08989"
+       y1="2.0252609"
+       x2="136.08989"
+       y2="53.401237"
+       gradientUnits="userSpaceOnUse" /><linearGradient
+       id="linearGradient29"><stop
+         style="stop-color:#00ebbe;stop-opacity:1;"
+         offset="0.34983498"
+         id="stop29" /><stop
+         style="stop-color:#68b8d2;stop-opacity:1;"
+         offset="0.63696373"
+         id="stop30" /></linearGradient></defs><g
      id="g7-1"
-     transform="matrix(0.51807981,0,0,0.51807981,-57.196995,-10.98674)"
+     transform="matrix(0.77711967,0,0,0.77711967,-85.795488,-16.48011)"
      style="display:inline"><path
        id="path31"
        style="fill:#00ebbe;stroke-width:1.07187;stroke-linecap:square;stroke-miterlimit:7.6;paint-order:fill markers stroke"
@@ -27,7 +42,7 @@
          x="143.3455"
          y="28.466057">about</tspan></text></g><g
      id="g7"
-     transform="matrix(0.55521776,0,0,0.55521776,-33.481403,-11.774312)"><path
+     transform="matrix(0.83282659,0,0,0.83282659,-50.222106,-17.661468)"><path
        id="path20"
        style="fill:#00ebbe;stroke-width:1.00017;stroke-linecap:square;stroke-miterlimit:7.6;paint-order:fill markers stroke"
        d="m 108.24263,21.206657 2.82471,1.261641 c 0,0 4.59502,2.056067 7.29977,3.575135 1.35448,0.760708 2.53336,1.883215 3.79362,2.861842 1.26024,0.978627 2.65109,1.832177 4.3897,1.832177 h 24.98831 c 2.3668,0 4.64358,-2.067774 4.64338,-4.576826 v -4.953969 z m 11.87517,4.389221 c 0.35087,0.247312 0.68599,0.504917 1.00988,0.764411 -0.32389,-0.259494 -0.65901,-0.517099 -1.00988,-0.764411 z" /><text
@@ -41,7 +56,7 @@
          x="140.09872"
          y="27.980211">résumé</tspan></text></g><g
      id="g9"
-     transform="matrix(0.51808085,0,0,0.51807966,-3.9638268,-10.986736)"
+     transform="matrix(0.77712117,0,0,0.77711944,-5.9457464,-16.480104)"
      style="display:inline"><path
        id="path25"
        style="fill:#00ebbe;stroke-width:1.00011;stroke-linecap:square;stroke-miterlimit:7.6;paint-order:fill markers stroke"
@@ -56,7 +71,7 @@
          x="143.77182"
          y="28.465759">studies</tspan></text></g><g
      id="g11"
-     transform="matrix(0.51808085,0,0,0.51807966,22.653174,-10.987004)"
+     transform="matrix(0.77712117,0,0,0.77711944,33.979751,-16.480506)"
      style="display:inline"><path
        id="path29"
        style="fill:#00ebbe;stroke-width:1.00015;stroke-linecap:square;stroke-miterlimit:7.6;paint-order:fill markers stroke"
