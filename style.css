@@ -84,6 +84,22 @@ tr {
     text-align: left !important;
 }
 
+.broccoli span {
+    background: #00ebbe;
+    width: 100%;
+
+    padding: 3px;
+}
+
+.broccoli span ul {
+    color: #260257;
+    font-size: 16pt;
+    text-align: left;
+    text-decoration: underline;
+
+    list-style-image: url('/img/bullet.svg');
+}
+
 #garnish, .parsley {
     display: block;
 
