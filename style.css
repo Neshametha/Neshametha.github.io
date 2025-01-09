@@ -8,7 +8,7 @@ body {
 
     text-align: center;
     color: #fff;
-    font: 14pt "Zen Kaku Gothic Antique", "Arial Narrow", sans-serif;
+    font: 12pt "Zen Kaku Gothic Antique", "Arial Narrow", sans-serif;
 }
 
 a {
@@ -93,7 +93,7 @@ tr {
 
 .broccoli span ul {
     color: #260257;
-    font-size: 16pt;
+    font-size: 14pt;
     text-align: left;
     text-decoration: underline;
 
