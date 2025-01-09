@@ -76,7 +76,7 @@ tr {
     text-align: right;
 }
 
-.salad {
+.salad, .broccoli {
     justify-content: center;
 
     margin: 0px 0px 0px;
@@ -147,7 +147,7 @@ tr {
     .col-12 {width: 100%;}
 
     .potatoes {max-width: 70%;}
-    .salad {margin: 0px 20px 20px !important;}
+    .sala, .broccoli {margin: 0px 20px 20px !important;}
     table, tr {min-width: 70%;}
 }
 
