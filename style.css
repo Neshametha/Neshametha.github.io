@@ -144,13 +144,15 @@ ul.stems {
 
     position: relative;
 
+    width: 360px;
+
     margin: 0px 25px;
 }
   
 .image {
     display: block;
 
-    width: 360px;
+    width: 100%;
     height: auto;
 }
   
