@@ -42,10 +42,6 @@ table {
     padding: 0px;
 }
 
-tr {
-    max-width: 70%;
-}
-
 .salt {
    text-align: left;
 }
@@ -54,6 +50,12 @@ tr {
    vertical-align: bottom;
 
    text-align: right;
+}
+
+.paprika {
+    vertical-align: top;
+
+    text-align: right;
 }
 
 .potatoes {
@@ -84,20 +86,31 @@ tr {
     text-align: left !important;
 }
 
-.broccoli span {
+.broccoli th, .broccoli span {
     background: #00ebbe;
     width: 100%;
 
     padding: 3px;
 }
 
-.broccoli span ul {
+ul.heads {
+    vertical-align: middle;
+
     color: #260257;
     font-size: 14pt;
     text-align: left;
     text-decoration: underline;
 
     list-style-image: url('/img/bullet.svg');
+}
+
+ul.stems {
+    color: #fff;
+    font-size: 12pt;
+    text-align: left;
+    text-decoration: none;
+
+    list-style-type: circle;
 }
 
 #garnish, .parsley {
