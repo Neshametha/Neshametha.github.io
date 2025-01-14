@@ -105,6 +105,10 @@ table.flower {
     margin-bottom: 0px;
 }
 
+.broccoli td {
+    vertical-align: top;
+}
+
 ul.heads {
     background: #00ebbe;
     vertical-align: middle;
