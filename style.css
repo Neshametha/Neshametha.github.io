@@ -149,9 +149,9 @@ ul.stems {
 }
   
 .image {
-    display: inline;
+    display: block;
 
-    width: 100%;
+    width: 25%;
     height: auto;
 }
   
