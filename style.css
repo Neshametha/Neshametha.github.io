@@ -95,6 +95,10 @@ table {
     font-size: 10pt;
 }
 
+.broccoli span {
+    margin: 0px auto;
+}
+
 table.flower {
     width: 100%;
 
@@ -118,6 +122,7 @@ ul.heads {
     text-decoration: underline;
 
     list-style-image: url('/img/bullet.svg');
+    list-style-position: inside;
 }
 
 ul.stems {
