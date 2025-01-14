@@ -3,8 +3,8 @@
 }
 
 body {
-    background: #1c0142;
     justify-content: center;
+    background: #1c0142;
 
     text-align: center;
     color: #fff;
@@ -114,8 +114,8 @@ ul {
 }
 
 ul.heads {
-    background: #00ebbe;
     vertical-align: middle;
+    background: #00ebbe;
 
     padding: 3px;
 
@@ -140,24 +140,32 @@ ul.stems {
 }
 
 .container {
+    display: inline;
+
     position: relative;
     width: 50%;
 }
   
 .image {
     display: block;
-    width: 100%;
+
+    max-width: 360px;
+    height: auto;
 }
   
 .overlay {
+    overflow: hidden;
+
     position: absolute;
     bottom: 100%;
-    left: 0;
-    right: 0;
+    left: 0px;
+    right: 0px;
+
     background-color: #554fa3;
-    overflow: hidden;
+
     width: 100%;
-    height: 0;
+    height: 0px;
+
     transition: .5s ease;
   }
   
@@ -167,11 +175,15 @@ ul.stems {
 }
   
 .text {
-    white-space: nowrap; 
+    white-space: nowrap;
     position: absolute;
     overflow: hidden;
     top: 50%;
     left: 50%;
+
+    color: #fff;
+    font-size: 14px;
+
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
 }
