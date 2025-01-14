@@ -95,7 +95,7 @@ table {
     font-size: 10pt;
 }
 
-.broccoli table {
+table.flower {
     width: 100%;
 
     margin-bottom: 0px;
@@ -113,6 +113,7 @@ ul.heads {
 
     color: #260257;
     font-size: 14pt;
+    font-weight: bold;
     text-align: left;
     text-decoration: underline;
 
@@ -191,7 +192,7 @@ ul.stems {
     .col-12 {width: 100%;}
 
     .potatoes {max-width: 70%;}
-    .salad, .broccoli {margin: 0px 20px 20px !important;}
+    .salad, .broccoli {margin: 0px 30px 30px !important;}
     table, tr {min-width: 70%;}
 }
 
