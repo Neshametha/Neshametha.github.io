@@ -140,6 +140,8 @@ ul.stems {
 }
 
 .container {
+    display: inline;
+
     position: relative;
 
     margin: 0px 25px;
@@ -148,7 +150,7 @@ ul.stems {
 .image {
     display: block;
 
-    width: 180px;
+    width: 360px;
     height: auto;
 }
   
