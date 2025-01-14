@@ -109,6 +109,10 @@ table.flower {
     vertical-align: top;
 }
 
+ul {
+    margin: 0px auto;
+}
+
 ul.heads {
     background: #00ebbe;
     vertical-align: middle;
@@ -125,6 +129,8 @@ ul.heads {
 }
 
 ul.stems {
+    margin-bottom: 15px;
+
     color: #fff;
     font-size: 12pt;
     text-align: left;
