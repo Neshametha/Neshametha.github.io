@@ -86,7 +86,18 @@ table {
     text-align: left !important;
 }
 
+.broccoli b {
+    color: #00ebbe;
+}
+
+.broccoli i {
+    color: #ccc;
+    font-size: 10pt;
+}
+
 .broccoli table {
+    width: 100%;
+
     margin-bottom: 0px;
 }
 
@@ -94,15 +105,11 @@ table {
     width: 100%;
 }
 
-.broccoli th, .broccoli span {
-    background: #00ebbe;
-
-    padding: 3px 0px;
-}
-
 ul.heads {
     background: #00ebbe;
     vertical-align: middle;
+
+    padding: 3px;
 
     color: #260257;
     font-size: 14pt;
