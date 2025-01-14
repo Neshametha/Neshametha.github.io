@@ -105,10 +105,6 @@ table.flower {
     margin-bottom: 0px;
 }
 
-.broccoli tr {
-    width: 100%;
-}
-
 ul.heads {
     background: #00ebbe;
     vertical-align: middle;
@@ -119,7 +115,6 @@ ul.heads {
     font-size: 14pt;
     font-weight: bold;
     text-align: left;
-    text-decoration: underline;
 
     list-style-image: url('/img/bullet.svg');
     list-style-position: inside;
