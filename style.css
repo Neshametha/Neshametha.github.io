@@ -150,6 +150,7 @@ img.carrots {
 
 img.carrots:hover {
     opacity: 1;
+    transition: .5s ease;
 }
 
 #garnish, .parsley {
