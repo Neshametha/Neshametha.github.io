@@ -143,12 +143,15 @@ ul.stems {
 
 .carrots {
     display: inline;
-    opacity: 0.3;
 
-    margin: 0px 15px;
+    margin: 0px 25px 25px 0px;
 }
 
-.carrots:hover {
+.carrots img {
+    opacity: 0.3;
+}
+
+.carrots img:hover {
     opacity: 1;
 }
 
