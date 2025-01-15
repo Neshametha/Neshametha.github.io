@@ -117,13 +117,13 @@ ul {
 
 ul.heads {
     vertical-align: middle;
-    background: #00ebbe;
+    background: #554fa3;
 
     padding: 3px;
 
     color: #260257;
     font-size: 14pt;
-    font-weight: bold;
+    font-weight: bolder;
     text-align: left;
 
     list-style-image: url('/img/bullet.svg');
