@@ -17,6 +17,8 @@ a {
 
 a:hover, a:visited {
     color: #68b8d2;
+
+    transition: .5s ease;
 }
 
 img, img a {
@@ -139,13 +141,27 @@ ul.stems {
     list-style-type: circle;
 }
 
+.carrots, .carrots a {
+    background-color: #554fa3;
+
+    justify-content: center;
+
+    vertical-align: middle;
+
+    color: #fff;
+    font-size: 14px;
+    font-weight: bolder;
+    text-align: center;
+}
+
 img.carrots {
-    opacity: 0;
+    opacity: 1;
 }
 
 img.carrots:hover {
-    background-color: #554fa3;
-    opacity: 1;
+    opacity: 0;
+
+    transition: .5s ease;
 }
 
 .container {
