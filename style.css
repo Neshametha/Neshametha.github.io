@@ -139,6 +139,15 @@ ul.stems {
     list-style-type: circle;
 }
 
+img.carrots {
+    opacity: 0;
+}
+
+img.carrots:hover {
+    background-color: #554fa3;
+    opacity: 1;
+}
+
 .container {
     position: relative;
 
