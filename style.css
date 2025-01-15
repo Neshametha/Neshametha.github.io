@@ -143,49 +143,13 @@ ul.stems {
 
 .carrots {
     display: inline;
+    opacity: 0.3;
+
+    margin: 0px 15px;
 }
 
-.container {
-    position: relative;
-    width: 50%;
-}
-  
-.image {
-    display: block;
-    width: 100%;
-    height: auto;
-}
-  
-.overlay {
-    position: absolute;
-    bottom: 100%;
-    left: 0;
-    right: 0;
-    background-color: #554fa3;
-    overflow: hidden;
-    width: 100%;
-    height: 0;
-    transition: .5s ease;
-}
-  
-.container:hover .overlay {
-    bottom: 0;
-    height: 100%;
-}
-
-
-.text, .text a {
-    white-space: nowrap;
-
-    position: absolute;
-    top: 50%;
-    left: 50%;
-
-    color: #fff;
-    font-size: 14px;
-
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
+.carrots:hover {
+    opacity: 1;
 }
 
 #garnish, .parsley {
