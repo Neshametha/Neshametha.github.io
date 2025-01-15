@@ -88,6 +88,10 @@ table {
     text-align: left !important;
 }
 
+.broccoli p {
+    margin-top: 0px;
+}
+
 .broccoli b {
     color: #00ebbe;
 }
@@ -121,7 +125,7 @@ ul.heads {
 
     padding: 3px;
 
-    color: #260257;
+    color: #00ebbe;
     font-size: 14pt;
     font-weight: bolder;
     text-align: left;
