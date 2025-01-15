@@ -73,9 +73,9 @@ table {
     justify-content: right;
     width: 100%;
 
-    margin: -1px 0px 15px;
+    margin: -2px 0px 15px;
     border-top: 4px solid #00ebbe !important;
-    padding: -1px 0px 0px;
+    padding: -2px 0px 0px;
 
     text-align: right;
 }
