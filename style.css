@@ -141,63 +141,42 @@ ul.stems {
     list-style-type: circle;
 }
 
-.carrots, .carrots a {
-    background-color: #554fa3;
-
-    justify-content: center;
-
-    vertical-align: middle;
-
-    color: #fff;
-    font-size: 14px;
-    font-weight: bolder;
-    text-align: center;
-}
-
-img.carrots {
-    opacity: 1;
-}
-
-img.carrots:hover {
-    opacity: 0;
-
-    transition: .5s ease;
+.carrots {
+    display: inline;
 }
 
 .container {
     position: relative;
-
     width: 50%;
 }
   
 .image {
     display: block;
-
     width: 100%;
     height: auto;
 }
   
 .overlay {
-    opacity: 0;
-
     position: absolute;
-    top: 0;
-    bottom: 0;
+    bottom: 100%;
     left: 0;
     right: 0;
-
-    height: 100%;
+    background-color: #008CBA;
+    overflow: hidden;
     width: 100%;
-
+    height: 0;
     transition: .5s ease;
-    background-color: #554fa3;
 }
   
 .container:hover .overlay {
-    opacity: 1;
+    bottom: 0;
+    height: 100%;
 }
 
+
 .text, .text a {
+    white-space: nowrap;
+
     position: absolute;
     top: 50%;
     left: 50%;
