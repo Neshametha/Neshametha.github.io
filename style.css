@@ -92,6 +92,12 @@ table {
     margin-top: 0px;
 }
 
+.broccoli p.crown {
+    margin: 15px 0px;
+
+    text-align: center;
+}
+
 .broccoli b {
     color: #00ebbe;
 }
@@ -113,6 +119,20 @@ table.floret {
 
 .broccoli td {
     vertical-align: top;
+}
+
+table.sprouts {
+    width: 100% !important;
+
+    margin: 15px auto;
+    border: 3px solid #554fa3;
+    border-radius: 25px !important;
+    padding: 15px;
+}
+
+table.sprouts td {
+    border: 1px solid #554fa3;
+    border-radius: 25px !important;
 }
 
 ul {
@@ -143,16 +163,6 @@ ul.stems {
     text-decoration: none;
 
     list-style-type: circle;
-}
-
-table.sprouts {
-    width: 100% !important;
-
-    margin: 15px auto;
-    border: 3px solid #554fa3;
-    border-radius: 25px !important;
-    border-collapse: collapse;
-    padding: 15px;
 }
 
 .carrots {
