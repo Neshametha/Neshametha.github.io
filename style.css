@@ -122,6 +122,8 @@ table.floret {
 }
 
 table.sprouts {
+    display: inline;
+    
     width: 100% !important;
 
     margin: 15px auto;
