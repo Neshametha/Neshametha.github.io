@@ -106,7 +106,7 @@ table {
 }
 
 table.floret {
-    width: 100%;
+    width: 100% !important;
 
     margin-bottom: 0px;
 }
@@ -146,9 +146,7 @@ ul.stems {
 }
 
 table.sprouts {
-    display: block;
-
-    width: 100%;
+    width: 100% !important;
 
     margin: 15px auto;
     border: 3px solid #554fa3;
