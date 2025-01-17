@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="159.70097mm"
-   height="10.112822mm"
-   viewBox="0 0 159.70097 10.11282"
+   width="119.77602mm"
+   height="10.112823mm"
+   viewBox="0 0 119.77601 10.112821"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -56,7 +56,7 @@
          x="140.09872"
          y="27.980211">résumé</tspan></text></g><g
      id="g9"
-     transform="matrix(0.77712132,0,0,0.77711949,-5.9454949,-16.480104)"
+     transform="matrix(0.77712132,0,0,0.77711949,-5.9454954,-16.480104)"
      style="display:inline"><path
        id="path25"
        style="fill:#00ebbe;stroke-width:1.00011;stroke-linecap:square;stroke-miterlimit:7.6;paint-order:fill markers stroke"
@@ -69,19 +69,4 @@
          id="tspan10"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.34999px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Semi-Bold';text-align:center;letter-spacing:-0.133056px;text-anchor:middle;fill:#544fa3;fill-opacity:1;stroke:#260257;stroke-width:1.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          x="143.77182"
-         y="28.465759">studies</tspan></text></g><g
-     id="g11"
-     transform="matrix(0.77712132,0,0,0.77711949,33.980138,-16.480507)"
-     style="display:inline"><path
-       id="path29"
-       style="fill:#00ebbe;stroke-width:1.00015;stroke-linecap:square;stroke-miterlimit:7.6;paint-order:fill markers stroke"
-       d="m 110.40225,21.207172 3.02615,1.351496 c 0,0 4.92488,2.204878 7.82356,3.83277 1.45158,0.815206 2.71443,2.017584 4.06502,3.06632 1.35061,1.048735 2.84058,1.963416 4.70385,1.963416 h 26.78004 c 2.53649,0 4.9775,-2.217931 4.97727,-4.906731 l -0.002,-5.307271 z m 12.72433,4.703102 c 0.37618,0.265027 0.736,0.541087 1.0833,0.819168 -0.3473,-0.278081 -0.70712,-0.554141 -1.0833,-0.819168 z" /><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.34999px;line-height:0;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Semi-Bold';text-align:start;letter-spacing:-0.133056px;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;opacity:1;fill:#544fa3;fill-opacity:1;stroke:#260257;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:7.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       x="143.83835"
-       y="28.465759"
-       id="text11"><tspan
-         id="tspan11"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.34999px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Semi-Bold';text-align:center;letter-spacing:-0.133056px;text-anchor:middle;fill:#544fa3;fill-opacity:1;stroke:#260257;stroke-width:1.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         x="143.77182"
-         y="28.465759">blog</tspan></text></g></svg>
+         y="28.465759">studies</tspan></text></g></svg>
