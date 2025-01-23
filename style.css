@@ -13,9 +13,11 @@ body {
 
 a {
     color: #00ebbe;
+
+    transition: .5s ease;
 }
 
-a:hover, a:visited {
+a:hover {
     color: #68b8d2;
 
     transition: .5s ease;
@@ -58,6 +60,15 @@ table {
     vertical-align: top;
 
     text-align: right;
+}
+
+.zaatar {
+    vertical-align: top;
+
+    margin-top: 0px;
+    padding-top: 0px;
+
+    text-align: left;
 }
 
 .potatoes {
