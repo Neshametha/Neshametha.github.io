@@ -128,6 +128,11 @@ table.floret {
     margin-bottom: 0px;
 }
 
+.floret tr {
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
 .broccoli td {
     vertical-align: top;
 }
